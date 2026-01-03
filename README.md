@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 Image-Based Disease Detection using Chest X-Ray Images
 
 ## 📌 Project Overview
@@ -108,3 +109,7 @@ Intern at **Codectechnologies**
 
 ## ⭐ Acknowledgement
 Thanks to Kaggle and the open-source community for providing the datasets and learning resources.
+=======
+# Image-Based-Disease-Detection
+Chest X-ray based disease detection using Deep Learning
+>>>>>>> fc11ad9525a2d7cb8d781b2200cf95856c4c7c76

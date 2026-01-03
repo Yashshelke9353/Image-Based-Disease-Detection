@@ -1,6 +1,7 @@
+streamlit
 tensorflow
 numpy
-matplotlib
+pillow
 opencv-python
 scikit-learn
-seaborn
+matplotlib
